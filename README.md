@@ -1,5 +1,5 @@
 <h1 align="center" >Hi 👋, I'm Brayan Almengor</h1>
-<h3 align="center">un apasionado fullstack developer en  Panama </h3>
+<h3 align="center">Apasionado en el desarrollo  fullstack developer en  Panama </h3>
 
 - Estoy trabajando en la creación de mi Portafolio Web (website) [Portafolio WEB](https://brayanalmengor04.github.io/portafolioweb.github.io/)
 
