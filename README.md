@@ -1,8 +1,9 @@
 ### Bienvenidos a mi perfil Publico Github  :P 
 
-![logotipo](https://user-images.githubusercontent.com/112229331/226142583-88f40931-d9df-4b63-9e0e-d8bb3395d883.jpg)
 
-<h1 align="center" >Hi 👋, I'm Brayan Almengor</h1>
+
+
+<h1 align="center" >Hola 👋, Soy Brayan Almengor</h1>
 <h3 align="center">Apasionado en el desarrollo  fullstack developer en  Panama </h3>
 
 - Estoy trabajando en la creación de mi Portafolio Web (website) [Portafolio WEB](https://brayanalmengor04.github.io/portafolioweb.github.io/) 
