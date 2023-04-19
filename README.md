@@ -1,5 +1,5 @@
 # 💫 About Me:
-!Hola Soy brayan almengor! Programador y desarrollador panameño , soy un apasionado a la tecnologia , soy estudiante y futuro licenciado de desarrollo de <br>Software. <br>Actualmente Estoy trabajando en la creación de mi Portafolio Web (website) Portafolio WEB<br><br>🌱 Estoy aprendiendo Frameworks Angular , Java , JavaScript<br>👨‍💻 Todos mis proyectos están disponibles portfolio web (trabajando actualmente)<br>💬 Pregúntame sobre Java , JavaScript , Angular<br>📫 Como llegar a mi brayanalmengor300@gmail.com 
+!Hola Soy brayan almengor! Programador y desarrollador panameño , soy un apasionado a la tecnologia , soy estudiante y futuro licenciado de desarrollo de Software<br>. <br>Actualmente Estoy trabajando en la creación de mi Portafolio Web (website) Portafolio WEB<br><br>🌱 Estoy aprendiendo Frameworks Angular , Java , JavaScript<br>👨‍💻 Todos mis proyectos están disponibles portfolio web (trabajando actualmente)<br>💬 Pregúntame sobre Java , JavaScript , Angular<br>📫 Como llegar a mi brayanalmengor300@gmail.com 
 
 
 ## 🌐 Socials:
