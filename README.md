@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estoy trabajando en la creación de mi Portafolio Web (website) Portafolio WEB<br><br>🌱 Estoy aprendiendo Frameworks Angular , Java , JavaScript<br><br>👨‍💻 Todos mis proyectos están disponibles en https://brayanalmengor04.github.io/portafolioweb.github.io/<br><br>💬 Pregúntame sobre Java , JavaScript , Angular<br><br>📫 Como llegar a mi brayanalmengor300@gmail.com
+Estoy trabajando en la creación de mi Portafolio Web (website) Portafolio WEB<br><br>🌱 Estoy aprendiendo Frameworks Angular , Java , JavaScript<br><br>👨‍💻 Todos mis proyectos están disponibles en portafolio (Trabajando Actualmente)<br><br>💬 Pregúntame sobre Java , JavaScript , Angular<br><br>📫 Como llegar a mi brayanalmengor300@gmail.com
 
 
 ## 🌐 Socials:
