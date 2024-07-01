@@ -9,9 +9,21 @@ Currently, I am working on creating my Website Portfolio.
 - I am planning to study Spring Boot for Java
 - Frameworks: React, Java, JavaScript
 
-## 👨‍💻 All My Projects
+## 👨‍💻 Projects
 
-- All my projects will be available on my web portfolio (currently in progress).
+All my projects will be available on my web portfolio, which is currently in progress. Each project includes detailed descriptions, technologies used, and links to the source code or live demos.
+
+## 🌟 Features
+
+- **Project Showcase**: Detailed descriptions of my projects, including objectives, technologies used, and outcomes.
+- **Skills Section**: A comprehensive list of my technical skills and competencies.
+- **About Me**: Information about my background, education, and professional journey.
+- **Contact Information**: Easy ways to get in touch with me for potential collaborations or inquiries.
+
+## 🌐 Portfolio Link
+
+The link to my web portfolio will be available here soon. Stay tuned!
+[Visit My Web Portfolio](https://brayandevpty.netlify.app/) 
 
 ## 💬 Ask Me About
 
