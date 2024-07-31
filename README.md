@@ -1,15 +1,16 @@
-<img src="/bannereadme.jpeg"/>
+
 
 # 💫 About Me: 
 
 # Hello! I am Brayan Almengor 
 
 
-<img src="/imagedev2.png" alt="My Image"  width="800"  /> 
 
 I am a dedicated Panamanian programmer and developer with a profound passion for technology. I am currently a student at the prestigious [Technological University of Panama](https://www.utp.ac.pa/) and a future graduate in Software Development. My academic journey has equipped me with a solid foundation in programming and software development, and I am constantly striving to expand my knowledge and skills.
 
 Currently, I am working on creating my Website Portfolio.
+
+<img src="/imagedev2.png" alt="My Image"  width="800" align="right" /> 
 
 ## 🌱 I am Currently Learning
 - I am planning to study Spring Boot for Java
