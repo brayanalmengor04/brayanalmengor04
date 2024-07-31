@@ -1,4 +1,5 @@
-<img src="/bannerreadme.jpg">
+<img src="/bannereadme.jpeg"/>
+
 # 💫 About Me: 
 
 # Hello! I am Brayan Almengor 
