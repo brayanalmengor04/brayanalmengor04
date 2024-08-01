@@ -1,4 +1,4 @@
-¡[Banner Brayandev](/Bannerdev.png)
+![Banner Brayandev](/Bannerdev.png)
 
 # 💫 About Me: 
 
