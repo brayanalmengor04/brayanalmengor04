@@ -10,12 +10,12 @@ I am a dedicated Panamanian programmer and developer with a profound passion for
 
 Currently, I am working on creating my Website Portfolio.
 
-<img src="/imagedev2.png" alt="My Image"  width="650" align="right" /> 
 
 ## 🌱 I am Currently Learning
 - I am planning to study Spring Boot for Java
 - Frameworks: React, Java, JavaScript
-- 
+
+<img src="/imagedev2.png" alt="My Image"  width="650" align="right" /> 
 
 ## 👨‍💻 Projects
 
