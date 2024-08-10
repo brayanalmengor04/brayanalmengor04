@@ -40,7 +40,7 @@ All my projects will be available on my web portfolio, which is currently in pro
 ## 🌐 Portfolio Link
 
 The link to my web portfolio will be available here soon. Stay tuned!
-[Visit My Web Portfolio](https://brayandevpty.netlify.app/) 
+[Visit My Web Portfolio](https://brayanalmengorpty.netlify.app/) 
 
 ## 💬 Ask Me About
 
