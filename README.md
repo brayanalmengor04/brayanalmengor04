@@ -13,7 +13,7 @@
 # Hello! I am Brayan Almengor 
 I am a dedicated Panamanian programmer and developer with a profound passion for technology. I am currently a student at the prestigious [Technological University of Panama](https://www.utp.ac.pa/) and a future graduate in Software Development. My academic journey has equipped me with a solid foundation in programming and software development, and I am constantly striving to expand my knowledge and skills. 
 
-<img src="/imagedev2.png" alt="My Image"  width="650" align="right" /> 
+<img src="/imagedev2.png" alt="My Image"  width="550" align="right" /> 
 Currently, I am working on creating my Website Portfolio. 
 
 ## 🎓 Education
