@@ -10,8 +10,6 @@
 </p>
 
 
-
-
 # 💫 About Me: 
 
 # Hello! I am Brayan Almengor 
@@ -19,15 +17,15 @@
 I am a dedicated Panamanian programmer and developer with a profound passion for technology. I am currently a student at the prestigious [Technological University of Panama](https://www.utp.ac.pa/) and a future graduate in Software Development. My academic journey has equipped me with a solid foundation in programming and software development, and I am constantly striving to expand my knowledge and skills. 
 
 <img src="/imagedev2.png" alt="My Image"  width="650" align="right" /> 
+Currently, I am working on creating my Website Portfolio. 
 
-Currently, I am working on creating my Website Portfolio.
-
-
+## 🎓 Education
+- **[Technological University of Panama](https://www.utp.ac.pa/) Bachelor's Degree in Software Development.**  
+- **High School Diploma in Commerce**
 ## 🌱 I am Currently Learning
 - I am planning to study Spring Boot for Java
 - Frameworks: React, Java, JavaScript
-
-
+- 
 ## 👨‍💻 Projects
 
 All my projects will be available on my web portfolio, which is currently in progress. Each project includes detailed descriptions, technologies used, and links to the source code or live demos.
@@ -81,6 +79,32 @@ The link to my web portfolio will be available here soon. Stay tuned!
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brayanalmengor04&theme=whatsapp-dark&card_width=830)](https://git.io/streak-stats)
+
+
+<!-- Dark mode stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=brayanalmengor04&show_icons=true&theme=gotham#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanalmengor04&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+</a>
+
+<!-- Light mode stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=brayanalmengor04&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanalmengor04&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+<!-- verificar buscar -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brayanalmengor04/brayanalmengor04/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brayanalmengor04/brayanalmengor04/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/brayanalmengor04/brayanalmengor04/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31m7xrlndcwp2rairodwofrb5kxe&count=1)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brayanalmengor04&limit=5&theme=radical&combine_all_yearly_contributions=true)
