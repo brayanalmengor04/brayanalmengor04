@@ -19,10 +19,14 @@ Currently, I am working on creating my Website Portfolio.
 ## 🎓 Education
 - **[Technological University of Panama](https://www.utp.ac.pa/) Bachelor's Degree in Software Development.**  
 - **High School Diploma in Commerce**
-## 🌱 I am Currently Learning
-- I am planning to study Spring Boot for Java
-- Frameworks: React, Java, JavaScript
-- 
+
+## 🌱 Currently Expanding My Skills
+- Deepening knowledge in **Spring Boot** for Java development
+- Practicing with **Laravel** for robust backend solutions
+- Focusing on frameworks including **React**, **Angular 18**, and **Java**
+  
+
+
 ## 👨‍💻 Projects
 
 All my projects will be available on my web portfolio, which is currently in progress. Each project includes detailed descriptions, technologies used, and links to the source code or live demos.
@@ -37,8 +41,8 @@ The link to my web portfolio will be available here soon. Stay tuned!
 - Laravel 
 - React
 - JavaFX 
-## 📫 How to Reach Me
 
+## 📫 How to Reach Me
 - Email: brayanalmengor300@gmail.com
 
 ## 🌐 Socials:
