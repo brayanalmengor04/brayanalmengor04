@@ -86,12 +86,6 @@ The link to my web portfolio will be available here soon. Stay tuned!
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanalmengor04&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
-<!-- verificar buscar -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brayanalmengor04/brayanalmengor04/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brayanalmengor04/brayanalmengor04/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/brayanalmengor04/brayanalmengor04/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brayanalmengor04&limit=5&theme=radical&combine_all_yearly_contributions=true)
