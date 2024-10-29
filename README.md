@@ -13,7 +13,6 @@
 # 💫 About Me: 
 
 # Hello! I am Brayan Almengor 
-
 I am a dedicated Panamanian programmer and developer with a profound passion for technology. I am currently a student at the prestigious [Technological University of Panama](https://www.utp.ac.pa/) and a future graduate in Software Development. My academic journey has equipped me with a solid foundation in programming and software development, and I am constantly striving to expand my knowledge and skills. 
 
 <img src="/imagedev2.png" alt="My Image"  width="650" align="right" /> 
@@ -30,29 +29,19 @@ Currently, I am working on creating my Website Portfolio.
 
 All my projects will be available on my web portfolio, which is currently in progress. Each project includes detailed descriptions, technologies used, and links to the source code or live demos.
 
-## 🌟 Features
-
-- **Project Showcase**: Detailed descriptions of my projects, including objectives, technologies used, and outcomes.
-- **Skills Section**: A comprehensive list of my technical skills and competencies.
-- **About Me**: Information about my background, education, and professional journey.
-- **Contact Information**: Easy ways to get in touch with me for potential collaborations or inquiries.
-
 ## 🌐 Portfolio Link
-
 The link to my web portfolio will be available here soon. Stay tuned!
 [Visit My Web Portfolio](https://brayanalmengorpty.netlify.app/) 
 
 ## 💬 Ask Me About
-
-- Java 
-- JavaScript
+- Java
+- Spring Boot
+- Laravel 
 - React
 - JavaFX 
 ## 📫 How to Reach Me
 
 - Email: brayanalmengor300@gmail.com
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Bryan.DEV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aabjtecno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-antonio-702749313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/brayanalmengor300) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aabj_cx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/brayanalmengor0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brayantecno) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/brayanalmengor04) 
@@ -103,8 +92,6 @@ The link to my web portfolio will be available here soon. Stay tuned!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brayanalmengor04/brayanalmengor04/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/brayanalmengor04/brayanalmengor04/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31m7xrlndcwp2rairodwofrb5kxe&count=1)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brayanalmengor04&limit=5&theme=radical&combine_all_yearly_contributions=true)
