@@ -100,10 +100,7 @@ The link to my web portfolio will be available here soon. Stay tuned!
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=brayanalmengor04&icon=2&color=5)](https://visitcount.itsvg.in)
-<div align="center">
-  Profile Views <br/>
-  <img src="https://profile-counter.glitch.me/brayanalmengor04/count.svg?"  />
-</div>
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/brayanalmengor04&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg)
 ![Banner Brayandev](/header.png)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
