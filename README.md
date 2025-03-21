@@ -13,7 +13,7 @@
 # Hello! I am Brayan Almengor 
 I am a dedicated Panamanian programmer and developer with a profound passion for technology. I am currently a student at the prestigious [Technological University of Panama](https://www.utp.ac.pa/) and a future graduate in Software Development. My academic journey has equipped me with a solid foundation in programming and software development, and I am constantly striving to expand my knowledge and skills. 
 
-<img src="/imagedev2.png" alt="My Image"  width="550" align="right" /> 
+<img src="imagedev2.png" alt="My Image"  width="550" align="right" /> 
 Currently, I am working on creating my Website Portfolio. 
 
 ## 🎓 Education
@@ -98,9 +98,10 @@ The link to my web portfolio will be available here soon. Stay tuned!
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brayanalmengor04&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### ⭐ Featured Repository 
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brayanalmengor04\&repo=my-finnantrack-app\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 ------
 ![GitHub followers](https://img.shields.io/github/followers/brayanalmengor04?style=flat&logo=github&color=05122A&labelColor=05122A)
