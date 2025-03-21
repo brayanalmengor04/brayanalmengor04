@@ -101,7 +101,9 @@ The link to my web portfolio will be available here soon. Stay tuned!
 
 ### ⭐ Featured Repository 
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brayanalmengor04\&repo=my-finnantrack-app\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
+| ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brayanalmengor04&repo=my-finnantrack-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brayanalmengor04&repo=my-finantrack-backend&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) |
+| --- | --- |
 
 ------
 ![GitHub followers](https://img.shields.io/github/followers/brayanalmengor04?style=flat&logo=github&color=05122A&labelColor=05122A)
