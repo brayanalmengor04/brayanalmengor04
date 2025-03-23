@@ -107,7 +107,7 @@ The link to my web portfolio will be available here soon. Stay tuned!
 
 ## 🎧 Spotify Listening
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m7xrlndcwp2rairodwofrb5kxe&cover_image=true&theme=novatorem&show_offline=true&background_color=bb51e1&interchange=false&bar_color=6e11ac&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31m7xrlndcwp2rairodwofrb5kxe&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m7xrlndcwp2rairodwofrb5kxe&cover_image=true&theme=novatorem&show_offline=false&background_color=bb51e1&interchange=false&bar_color=6e11ac&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31m7xrlndcwp2rairodwofrb5kxe&redirect=true)
 
 ------
 ![GitHub followers](https://img.shields.io/github/followers/brayanalmengor04?style=flat&logo=github&color=05122A&labelColor=05122A)
