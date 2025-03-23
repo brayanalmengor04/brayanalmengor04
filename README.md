@@ -105,6 +105,10 @@ The link to my web portfolio will be available here soon. Stay tuned!
 | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brayanalmengor04&repo=my-finnantrack-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=brayanalmengor04&repo=my-finantrack-backend&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) |
 | --- | --- |
 
+## 🎧 Spotify Listening
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m7xrlndcwp2rairodwofrb5kxe&cover_image=true&theme=novatorem&show_offline=true&background_color=bb51e1&interchange=false&bar_color=6e11ac&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31m7xrlndcwp2rairodwofrb5kxe&redirect=true)
+
 ------
 ![GitHub followers](https://img.shields.io/github/followers/brayanalmengor04?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=brayanalmengor04&style=flat&labelolor=05122A&color=05122A) 
